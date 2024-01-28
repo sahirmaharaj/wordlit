@@ -508,7 +508,7 @@ def main():
             edge_color = st.color_picker("Edge Color", "#888")
             apply_changes = st.form_submit_button("Apply Changes")
 
-    tab1, tab2, tab3 = st.tabs(["Upload a File", "Enter Text Manually", "Enter Website URL"])
+    tab1, tab2, tab3 = st.tabs(["Upload a File", "Enter Text Manually", "Website URL"])
     user_input = None
 
     with tab1:
