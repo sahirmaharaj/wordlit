@@ -1,0 +1,10 @@
+spacy
+networkx
+streamlit
+plotly
+matplotlib
+pandas
+python-docx
+pdfplumber
+requests
+beautifulsoup4
