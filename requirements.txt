@@ -8,4 +8,5 @@ python-docx
 pdfplumber
 requests
 beautifulsoup4
-https://github.com/explosion/spacy-models/releases/tag/en_core_web_trf-3.7.3
+
+pip install https://github.com/explosion/spacy-models/releases/tag/en_core_web_trf-3.7.3
