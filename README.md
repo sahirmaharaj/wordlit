@@ -2,7 +2,7 @@
 
 <a href= "http://wordlit.net"> Wordlit.net </a> is aimed at demystifying the decisions and behaviors of algorithms in Natural Language Processing (NLP). It visualizes the relationships and entities extracted from text, offering insights into how NLP algorithms interpret and process language. The application is helpful for NLP researchers, data scientists, and enthusiasts keen on understanding the workings of computational linguistics. Wordlit.net currently supports input for file types of PDF, Word, and TXT.
 
-![Wordlit-Home](https://github.com/sahirmaharaj/sahirmaharaj/assets/157965615/0c5b1c83-dc19-4f2e-87f8-44403f147946)
+![Wordlit-Home](https://github.com/sahirmaharaj/wordlit/assets/157965615/85dfdd74-e59d-4047-a1e3-3aa61714aaee)
 
 ## Key Features
 - Entity Extraction: Leverages spaCy's NLP capabilities to identify entities in the text.
