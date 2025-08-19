@@ -1,6 +1,6 @@
 """
 
-All code contributed to Wordlit.net is © 2024 by Sahir Maharaj. 
+All code contributed to Wordlit.net is © 2025 by Sahir Maharaj. 
 The content is licensed under the Creative Commons Attribution 4.0 International License. 
 This allows for sharing and adaptation, provided appropriate credit is given, and any changes made are indicated.
 
@@ -694,3 +694,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
